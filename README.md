@@ -113,7 +113,7 @@ How to Run the Project:
 1️⃣ Install dependencies
 pip install -r requirements.txt
 2️⃣ Run the Streamlit dashboard
-streamlit run dashboard/app.py
+streamlit run app.py
 
 
 📈 Key Findings
